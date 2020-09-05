@@ -1,5 +1,22 @@
 .App {
-  text-align: center;
+  margin: 10px;
+}
+
+.navbar {
+  background: rgb(9, 2, 27);
+  height: 33px;
+}
+
+.puremenu {
+  color: white;
+  text-decoration: solid;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  font-size: 25px;
+  font-style: italic;
+  font-weight: bold;
+  font-stretch: ultra-condensed;
+  margin: 10px;
+  padding-top: 10px;
 }
 
 .App-logo {
